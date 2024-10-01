@@ -1,7 +1,7 @@
 import Lake
 open Lake DSL
 
-require alloy from git "https://github.com/tydeu/lean4-alloy.git" @ "d93e0591e2b2ee76f13b8394d9b4c870af7489b6"
+require alloy from git "https://github.com/token-cjg/lean4-alloy.git" @ "cgoddard/wip"
 
 package LibUV where
   -- add package configuration options here
